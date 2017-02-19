@@ -3,6 +3,6 @@ A complete and responsive portfolio website coded by me relying on HTML layout, 
 
 Thanks for Downloading this portfolio website.
 
-By downloading this preset you agreed with our terms of use and you may not upload this preset file to any other website or try to sell this preset file, otherwise we will express the right to take legal actions. 
+By downloading these files you agreed with our terms of use and you may not upload these files to any other website or try to sell these files, otherwise we will express the right to take legal actions. 
 
 All rights reserved © 2017 Warsaw, Poland.
